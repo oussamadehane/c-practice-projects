@@ -5,7 +5,7 @@
  */
 void print_welcome_message(void) 
 {
-    printf("Welcome to Gammal Tech's International Printf Introduction!\n");
+    printf("Welcome to C Programming International Printf Introduction!\n");
 }
 
 int main(void) 
