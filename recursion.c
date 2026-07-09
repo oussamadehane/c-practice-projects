@@ -23,7 +23,7 @@ void Recursion(int Number)
 {
     //  Base Case;
     if (Number == 0)return;
-    printf("%d", Number);
+    printf("%d\n", Number);
     Recursion(Number - 1);
 }
 
